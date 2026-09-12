@@ -1,0 +1,22 @@
+# Core Web Framework
+streamlit>=1.35.0
+
+# Database & Data Handling
+sqlalchemy>=2.0.0
+pydantic>=2.7.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Document Ingestion for RAG
+pypdf>=4.2.0
+python-docx>=1.1.0
+
+# Utilities & Security
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional external LLM providers (optional at runtime, app provides built-in offline engine)
+# openai>=1.30.0
+
+# Testing
+pytest>=8.0.0

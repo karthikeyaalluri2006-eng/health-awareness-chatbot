@@ -1,0 +1,36 @@
+# Heart Health, Cardiovascular Wellness & Hypertension Awareness
+
+## Overview of Cardiovascular Health
+Cardiovascular disease (CVD) remains the leading global cause of morbidity and mortality. The cardiovascular system encompasses the heart muscle, coronary arteries, valves, and systemic blood vessels. Proactive lifestyle choices, early detection, and routine monitoring substantially mitigate cardiac risk.
+
+## Understanding Blood Pressure (Hypertension):
+Blood pressure measures the lateral hydrostatic force exerted by circulating blood on arterial walls during cardiac contraction (systolic) and ventricular relaxation (diastolic).
+
+### Clinical Blood Pressure Classifications (AHA/ACC):
+- **Normal:** Systolic < 120 mmHg AND Diastolic < 80 mmHg.
+- **Elevated:** Systolic 120-129 mmHg AND Diastolic < 80 mmHg.
+- **Stage 1 Hypertension:** Systolic 130-139 mmHg OR Diastolic 80-89 mmHg.
+- **Stage 2 Hypertension:** Systolic >= 140 mmHg OR Diastolic >= 90 mmHg.
+- **Hypertensive Crisis:** Systolic > 180 mmHg and/or Diastolic > 120 mmHg (requires immediate emergency medical intervention).
+
+Hypertension is frequently termed the "silent killer" because it typically progresses without overt symptoms for years while quietly damaging the heart, brain, kidneys, and peripheral arteries.
+
+## Understanding Cholesterol & Lipid Profiles:
+1. **Low-Density Lipoprotein (LDL):** Often labeled "bad cholesterol," elevated circulating LDL particles infiltrate arterial endothelial walls, oxidise, and trigger atherosclerotic plaque formation. Desirable level: < 100 mg/dL.
+2. **High-Density Lipoprotein (HDL):** Known as "good cholesterol," HDL facilitates reverse cholesterol transport, shuttling excess cholesterol from peripheral tissues back to the liver for excretion. Desirable level: >= 50 mg/dL for women, >= 40 mg/dL for men.
+3. **Triglycerides:** The most common form of dietary and stored fat. Elevated triglycerides (> 150 mg/dL) coupled with low HDL accelerates arterial stiffening and metabolic syndrome.
+
+## Evidence-Based Heart-Healthy Habits:
+- **DASH Dietary Pattern:** Emphasizes fruits, vegetables, low-fat dairy, whole grains, poultry, fish, and nuts, while restricting sodium intake to < 2,300 mg/day (ideally < 1,500 mg/day for hypertensive individuals).
+- **Physical Conditioning:** Engaging in at least 150 minutes of moderate aerobic conditioning (or 75 minutes of vigorous exercise) weekly enhances endothelial nitric oxide production, strengthens the myocardium, and reduces resting arterial pressure.
+- **Tobacco Cessation:** Smoking rapidly elevates heart rate, constricts arterioles, damages arterial linings, and doubles coronary heart disease risk. Quitting smoking cuts coronary event risk in half within one year.
+- **Stress & Sleep:** Chronic sympathetic nervous system overdrive increases systemic cortisol and catecholamines. Prioritizing 7-9 hours of restorative sleep and mindfulness practices dampens vascular inflammation.
+
+## Acute Cardiac Red Flags Requiring Immediate Emergency Care:
+If you or someone nearby experiences any of the following symptoms, call emergency services (911, 112, 108) immediately:
+- Severe pressure, fullness, squeezing, or crushing pain in the center of the chest lasting more than a few minutes.
+- Pain or discomfort radiating to one or both arms, the back, neck, jaw, or epigastrium.
+- Shortness of breath with or without chest discomfort.
+- Sudden cold sweats, unexplained nausea, dizziness, or lightheadedness.
+
+*Source: American Heart Association (AHA) & European Society of Cardiology (ESC).*

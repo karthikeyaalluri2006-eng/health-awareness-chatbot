@@ -1,0 +1,36 @@
+# Type 2 Diabetes & Glucose Metabolism Awareness Guide
+
+## What is Diabetes?
+Diabetes mellitus is a metabolic condition characterized by persistent hyperglycemia (elevated blood glucose levels). This occurs either because the pancreas cannot produce sufficient insulin or because the body's cells develop resistance to the insulin being produced.
+
+## Primary Classifications:
+1. **Type 1 Diabetes:** An autoimmune condition where the body's immune system mistakenly attacks insulin-producing beta cells in the pancreas. It typically presents in childhood or young adulthood and requires daily exogenous insulin therapy.
+2. **Type 2 Diabetes:** The most common form (accounting for ~90-95% of cases), where peripheral tissues develop insulin resistance, and the pancreas progressively fails to compensate. It is strongly linked to genetics, physical inactivity, and visceral adiposity.
+3. **Prediabetes:** A state where blood sugar levels are higher than normal (Fasting blood glucose 100-125 mg/dL or HbA1c 5.7%-6.4%) but not yet meeting the clinical threshold for Type 2 diabetes. Lifestyle interventions at this stage can prevent or significantly delay progression.
+4. **Gestational Diabetes:** Develops during pregnancy due to hormonal changes impairing insulin action, requiring careful glucose monitoring to protect maternal and fetal health.
+
+## Common Warning Signs and Symptoms:
+- **Polyuria:** Frequent urination, particularly waking multiple times during the night.
+- **Polydipsia:** Excessive, unquenchable thirst despite regular fluid intake.
+- **Polyphagia:** Increased appetite or intense hunger even after meals.
+- **Unexplained Weight Loss:** Rapid weight reduction despite normal or increased caloric intake (more common in Type 1).
+- **Fatigue and Lethargy:** Chronic lack of physical energy as glucose cannot efficiently enter muscle cells.
+- **Blurred Vision:** Rapid fluctuations in blood sugar altering the shape and hydration of the eye lens.
+- **Slow Healing Wounds:** Minor cuts, blisters, or bruises taking prolonged time to heal.
+- **Tingling or Numbness:** Paresthesia in fingers, toes, or feet (early diabetic peripheral neuropathy).
+
+## Standard Diagnostic Benchmarks:
+- **Fasting Plasma Glucose (FPG):** Normal < 100 mg/dL; Prediabetes 100-125 mg/dL; Diabetes >= 126 mg/dL.
+- **Hemoglobin A1c (HbA1c):** Normal < 5.7%; Prediabetes 5.7% - 6.4%; Diabetes >= 6.5%.
+- **Random Blood Glucose:** >= 200 mg/dL accompanied by classic hyperglycemic symptoms.
+
+## Evidence-Based Preventive Lifestyle Strategies:
+1. **Dietary Modification:** Prioritize non-starchy vegetables, legumes, whole intact grains, and lean proteins. Limit refined carbohydrates, sugary beverages, and ultra-processed foods.
+2. **Physical Activity:** Aim for at least 150 minutes of moderate-intensity aerobic exercise per week (such as brisk walking, swimming, or cycling), combined with 2-3 resistance training sessions.
+3. **Weight Management:** In individuals with overweight or obesity, losing 5% to 7% of total body weight has been shown to reduce the incidence of Type 2 diabetes by nearly 60%.
+4. **Regular Screening:** Adults over 35 or individuals with risk factors (family history, elevated BMI, sedentary lifestyle) should undergo screening every 1 to 3 years.
+
+## When to Seek Urgent Medical Care:
+If a person experiences severe confusion, deep rapid breathing, fruity-smelling breath, persistent vomiting, or extreme dehydration, this may indicate Diabetic Ketoacidosis (DKA) or Hyperosmolar Hyperglycemic State (HHS), which are life-threatening emergencies requiring immediate hospital admission.
+
+*Source: World Health Organization (WHO) & American Diabetes Association (ADA) Clinical Guidelines.*
